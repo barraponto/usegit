@@ -20,10 +20,3 @@ git cz
 
 
 
-## --- Amine's Suggestions--- ##
-
-# it would be interresting to talk about secondary tools that help with git work like Gitkraken or github copilop
-
-## also maybe talking about how to keep our github/lab clean and organized would be helpfull
-
-## --- / Amine's Suggestions \ --- ##
