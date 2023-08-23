@@ -19,17 +19,22 @@ Then, make sure to install git:
 
 Use the `annotations` folder for notes based on the lessons.
 Adding more stuff there is up to you, annotate at will!
+Just try to keep the notes in the right files, like `annotations/01-notes.md`
 
-The `lessons` folder holds the actual slides (except for intro, which is the main one).
+The `lessons` folder holds the actual slides (except for intro, which is the slides.md).
 Feel free to edit them and send pull requests!
 
 The `exports` folder holds pdf versions of the slides used in class.
 You may find them almost as bare as the annotations, but they're in there anyway.
 
-The `quizzes` folder holds quizes and rubrics.
+The `quizzes` folder holds quizzes.
+Rubrics should be copies of the quizzes, but answered in markdown.
 Try the quizes before looking into the rubrics, so you learn more ;)
 
 The `recipes` folder holds sample data for the git repo examples.
+
+The `suggestions` folder should hold suggestions in markdown format.
+Use files like `suggestions/commitizen.md` to add a suggestion and explain why it is a good idea.
 
 ## So you want to hack the course?
 
