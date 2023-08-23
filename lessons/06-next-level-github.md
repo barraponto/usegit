@@ -10,7 +10,7 @@ drawings:
 exportFilename: 06-next-level-github.pdf
 ---
 
-# Next Level git
+# Next Level Github
 
 ## with Capi Etheriel
 
