@@ -25,7 +25,7 @@
    [ ] git rm
 
 5. What does the command `git log -n 4` do ?
-   [ ] It limits the number of commits in git lot output to 4
+   [ ] It limits the number of commits in git log output to 4
    [ ] It skips 4 commit before starting to show the commit output
    [ ] It show only commits which have at least (or at most) 4 parent commits
    [ ] This options doesn't exist
