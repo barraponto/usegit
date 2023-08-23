@@ -6,7 +6,7 @@
    [ ] git add \*
    [ ] git add -u
 
-2. Which command should you use to undoes the previous commit change without modify the existing history ?
+2. Which command should you use to undo the previous commit change without modifying the existing history ?
    [ ] git revert
    [ ] git checkout
    [ ] git reset
@@ -18,14 +18,14 @@
    [ ] git demon
    [ ] git ignore
 
-4. To remove files from the working tree and from the index, you have to use :
+4. To remove files from the working tree and from the index, you have to use:
    [ ] git terminate
    [ ] git del
    [ ] git push -d
    [ ] git rm
 
-5. What did the command `git log -n 4` ?
-   [ ] It limit the number of commit to output to 4
-   [ ] It skip 4 commit before starting to show the commit output
+5. What does the command `git log -n 4` do ?
+   [ ] It limits the number of commits in git lot output to 4
+   [ ] It skips 4 commit before starting to show the commit output
    [ ] It show only commits which have at least (or at most) 4 parent commits
    [ ] This options doesn't exist
