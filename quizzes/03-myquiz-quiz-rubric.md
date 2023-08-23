@@ -11,12 +11,12 @@
 [ ] It means the repository is not connected to any branch
 [ ] It means the repository is cloned from another repository
 3. I want to undo the last commit I made. What command should I use?
-[ ] git revert
-[x] git reset
+[x] git revert HEAD
+[ ] git reset
 [ ] git checkout
 [ ] git stash
 4. What command can be used to create a new branch?
-[x] git branch
+[x] git branch new_branch
 [ ] git switch
 [ ] git merge
 [ ] git init
