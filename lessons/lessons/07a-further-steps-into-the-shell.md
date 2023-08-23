@@ -2,11 +2,11 @@
 theme: default
 title: Advanced Shell Mastery
 info: |
-  Use Git -- Lesson 4bis: Advanced Shell Mastery
+  Use Git -- Lesson 07: further steps into the shell
 transition: slide-left
 drawings:
   persist: false
-exportFilename: 04bis-advanced-shell-mastery.pdf
+exportFilename: 07a-further-steps-into-the-shell.pdf
 ---
 
 # Advanced Shell Mastery
