@@ -58,4 +58,4 @@
 [ ] Yes, only the last command, accessed by pressing "up" in the keyboard
 [ ] No, commands must not be logged for security reasons (what if there is a password in the command?)
 [ ] Yes, there is infinite history if you keep pressing "up" or you can search via "ctrl+R"
-[x] It is configurable, it will remember a few by default. You can also define some sensitive commands to never be remembered.
+[ ] It is configurable, it will remember a few by default. You can also define some sensitive commands to never be remembered.
