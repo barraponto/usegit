@@ -1,13 +1,13 @@
 ---
-тема: по умолчанию
-Заголовок: Повседневная оболочка
-Информация: |
-  Использование  Git -- Урок  4: Повседневная оболочка
-   Подробнее на https://github.com/barraponto/usegit
-переход: слайд влево
-рисунки:
-  сохранять: false
-имяФайлаДляЭкспорта: 04-повседневная-оболочка.pdf
+theme: по умолчанию
+title: Повседневная оболочка
+info: |
+  Use Git -- Lesson 4: Everyday shell
+  See https://github.com/barraponto/usegit
+transition: slide-left
+drawings:
+  persist: false
+exportFilename: 04-everyday-shell.pdf
 ---
 
 # Повседневная оболочка
