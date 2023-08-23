@@ -36,6 +36,9 @@ The `recipes` folder holds sample data for the git repo examples.
 The `suggestions` folder should hold suggestions in markdown format.
 Use files like `suggestions/commitizen.md` to add a suggestion and explain why it is a good idea.
 
+The `translations` folder can hold translations to the slides.
+Make sure the path matches the pattern `translations/{fr}/{filename}.md`.
+
 ## So you want to hack the course?
 
 Cool! You don't have to edit slides or generate the slides, but if you want to:
