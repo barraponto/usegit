@@ -16,3 +16,4 @@ The tool prompts you to fill out you the biggest changes, breaking changes, affe
 
 ```bash
 git cz
+```
