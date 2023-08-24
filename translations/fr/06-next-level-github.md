@@ -60,8 +60,8 @@ exportFilename: 06-next-level-github.pdf
 
 # Actions Github
 
-- créer des pages
-- lancer des tests
+- Créer des pages
+- Lancer des tests
 - Emballer les projets
 
 ---
@@ -70,7 +70,7 @@ exportFilename: 06-next-level-github.pdf
 
 # Versions de Github
 
-- version du dépôt
+- Version du dépôt
 - Tags du dépôt
 - Packages de Github
 
