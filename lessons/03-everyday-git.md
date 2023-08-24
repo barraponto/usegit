@@ -99,9 +99,9 @@ layout: intro
 
 <v-clicks>
 
-A **pull request** or **merge request** is a request to merge commits from a branch into another, usually a **feature branch** into the **mainline branch** (also known as **trunk**).
+Une **pull request** ou **merge request** est une requête pour fusionner une branche à une autre, géneralement une **feature branch** dans la **mainline branch** (aussi connu sous le nom de **trunk**).
 
-It is not required, but it allows for **code reviews**.
+Ce n'est pas obligatoire, mais cela permet les **code reviews**.
 
 </v-clicks>
 
