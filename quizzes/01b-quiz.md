@@ -1,70 +1,50 @@
-1. What of the following are version control systems?
-[ ] git
-[ ] subversion
-[ ] grep
-[ ] cvs
-[ ] csv
+# Git Quiz: Testing Your Git Wit
 
-2. What was the core feature distributed version control systems (dvcs) such as git introduced?
+Welcome to this quirky Git quiz that will tickle your funny bone while testing your Git knowledge. Let's dive in and have some nerdy laughs!
 
-[ ] allows tagging releases
-[ ] allows pushing changes to a central repository
-[ ] allows tracking parallel, offline work
-[ ] allows diff between versions
+## Question 1: Text Editor Tease
 
-3. What can you do on Github?
-[ ] Publish a web page
-[ ] Set up integration pipelines
-[ ] Host a git repository
-[ ] Review code changes
-[ ] Publish compiled packages
+1. What is the default text editor for the Bash shell with a Windows-based Git install?
 
-4. What can you do only on Github?
-[ ] Publish a web page
-[ ] Set up integration pipelines
-[ ] Host a git repository
-[ ] Review code changes
-[ ] Publish compiled packages
+   - [ ] Emacs (Because who needs simplicity, right?)
+   - [ ] Vim (For those who enjoy finger acrobatics)
+   - [ ] Notepad++ (For the adventurous souls who like to live on the edge)
+   - [ ] Bash (It's like expecting a microwave to bake cookies)
 
-5. What is the command-line interface?
-[ ] A graphical user interface with icons and windows
-[ ] A textual shell to input commands and see output
-[ ] A software development environment for Linux
-[ ] An outdated programming language
+## Question 2: Prerequisite Pranks
 
-6. How does the shell find the programs requested in a command?
-[ ] The program must be in /usr/bin/
-[ ] The shell must be compiled with the programs
-[ ] The shell will look for the program in a list of folders
-[ ] The command must provide the full path to the program
+2. Before you install Git, which of the following prerequisite products must be present and configured on your local OS?
 
-7. Which of these are common environment variables?
-[ ] PATH
-[ ] PS1
-[ ] WALLET
-[ ] USER
-[ ] TERM
-[ ] GREP
-[ ] LINUX
-[ ] HOME
-[ ] NODE_ENV
-[ ] PAGER
+   - [ ] Jakarta Enterprise Edition web profile compliant server (Who even uses that in their daily life?)
+   - [ ] Java Development Kit 1.8 or newer (Because we all love updating Java versions)
+   - [ ] Apache Maven (For the connoisseurs of complicated build systems)
+   - [ ] Nothing (The moment of truth: the secret to minimalist Git installations)
 
-8. What is the command to start a git repository?
-[ ] git start
-[ ] git init
-[ ] git open
-[ ] git reset
+## Question 3: Configuration Comedy
 
-9. What is the command to create a new branch called `devel`?
-[ ] git checkout -b devel
-[ ] git switch -c devel
-[ ] git branch -d devel
-[ ] git branch -c devel
+3. After you install Git and prior to issuing the first commit, which two configuration properties does the tool expect to be configured?
 
-10. Which of these are real git config properties?
-[ ] color.ui
-[ ] core.pager
-[ ] python.disable
-[ ] user.signingkey
-[ ] github.user
+   - [ ] username and email address (Because commits without identity are like ghost stories)
+   - [ ] username and password (Because Git wants to know if you're keeping your secrets safe)
+   - [ ] email address and password (Security through confusion: entering email as a password)
+   - [ ] username and IP address (For the times when Git becomes your network administrator)
+
+## Question 4: Git Scopes Shenanigans
+
+4. Which of the following is not a Git configuration scope?
+
+   - [ ] Local (For those who love isolation and tiny, cozy repositories)
+   - [ ] User (Your personal touch to customize Git's mood)
+   - [ ] System (Because Git secretly dreams of becoming an operating system)
+   - [ ] Global (Because world domination starts with global configuration)
+
+## Question 5: Git History Hilarity
+
+5. Who is attributed with inventing Git?
+
+   - [ ] Junio Hamano (Sounds like a name straight out of a hacker movie)
+   - [ ] James Gosling (Wait, wasn't he busy with something called Java?)
+   - [ ] Kohsuke Kawaguchi (Possibly a ninja who mastered version control)
+   - [ ] Linus Torvalds (When in doubt, credit the creator of all things nerdy)
+
+May your Git journey be filled with laughter and version-controlled success! 🚀
