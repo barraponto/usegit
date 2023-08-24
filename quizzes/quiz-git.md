@@ -10,7 +10,7 @@
 [] git show <commit_id>
 [] git diff <commit_id>
 [x] git log --patch <commit_id>
-[] git log -p <commit_id>
+[] git login <commit_id>
 
 **Question 3:** In Git, what is the purpose of the command `git cherry-pick`?
 [] To discard changes in the working directory
@@ -23,10 +23,3 @@
 [] Merging multiple branches simultaneously
 [] Navigating between previous commits
 [x] Finding the commit that introduced a bug
-
-
-
-
-
-
-
