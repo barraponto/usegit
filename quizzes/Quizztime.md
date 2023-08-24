@@ -24,7 +24,7 @@ Question 4: How do you suggest changes to a main GitHub repository using Pull Re
 
 [ ] By sending an email to the repository owner.
 [ ] By cloning the repository and making changes locally.
-[x] By creating a new branch, making changes, and then opening a Pull Request.
+[x] By creating a new branch on a fork, making changes, and then opening a Pull Request.
 [ ] By deleting the main repository and recreating it with new changes.
 
 Question 5: Which command is used to add all modified files to the staging area?
