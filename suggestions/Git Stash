@@ -1,0 +1,17 @@
+Temporary Storage: `git stash` is used to temporarily save your current changes, including both staged and unstaged ones.
+
+Task Switching: It's helpful when you need to switch to another task or branch without committing unfinished work.
+
+Stash Creation: By running `git stash`, you create a stash that resets your working directory to the state of the last commit.
+
+Stash Application and Pop: `git stash apply` or `git stash pop` bring back the stashed changes. The former retains the stash, while the latter deletes it.
+
+Multiple Stashes: You can create multiple stashes, each with a unique index (starting from 0).
+
+Stash Inspection: `git stash list` displays a list of stashes with their indices, descriptions, and base commits.
+
+Custom Messages: You can add descriptions to stashes using `git stash save "message"`.
+
+Branching: Stash changes, switch to another branch, work, then come back and reapply the stashed changes.
+
+Untracked Files: By default, untracked files aren't stashed. Use `git stash --include-untracked` to stash them.
