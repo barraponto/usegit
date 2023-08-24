@@ -29,6 +29,16 @@ layout: intro
 layout: intro
 ---
 
+# Commitizen
+
+- What is commitizen
+- How to set it up
+- How to set it up with hooks
+
+---
+layout: intro
+---
+
 # Git Cherry
 
 - What the command does
