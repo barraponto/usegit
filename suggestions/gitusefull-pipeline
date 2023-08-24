@@ -1,0 +1,17 @@
+# New suggestion
+
+## Mathieu RANIERI
+
+In some Git projects using CI/CD we have to take care about the current revision of our repo. 
+For example we can encouter a problem where a pipeline did not take desired revision and it can causes problems or unknowed errors.
+
+-  git rev-parse HEAD
+
+This command allow us to see the current git version of our local repo then we can compare with remote repo.
+
+To be sure to have the latest repository in our CI/CD pipeline environement for example we can use both command :
+
+- git reset --hard 
+- git pull
+
+This can remove potentially commit made by the pipeline if needed. And then be allowed to make a pull to retrieve the latest version of our repo.
