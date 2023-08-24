@@ -4,7 +4,8 @@
   "scripts": {
     "build": "slidev build",
     "dev": "slidev --open",
-    "export": "slidev export"
+    "export": "slidev export",
+    "prepare": "husky install"
   },
   "dependencies": {
     "@slidev/cli": "^0.42.9",
@@ -13,7 +14,10 @@
   "devDependencies": {
     "commitizen": "^4.3.0",
     "cz-conventional-changelog": "^3.3.0",
-    "playwright-chromium": "^1.37.1"
+    "husky": "^8.0.0",
+    "playwright-chromium": "^1.37.1",
+    "stylelint": "^15.10.3",
+    "stylelint-config-standard": "^34.0.0"
   },
   "config": {
     "commitizen": {
