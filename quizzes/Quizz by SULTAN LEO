@@ -1,0 +1,11 @@
+How can you undo the last commit while keeping the changes in your working directory?
+a. git undo
+b. git revert HEAD
+c. git reset --hard HEAD~1
+d. git commit --amend
+
+What's the purpose of the .gitignore file?
+a. It contains your Git login credentials
+b. It lists all the commits in the repository
+c. It specifies files and directories to be ignored in version control
+d. It stores the URL of the remote repository
