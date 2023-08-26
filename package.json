@@ -8,8 +8,13 @@
     "prepare": "husky install"
   },
   "dependencies": {
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/git": "^10.0.1",
+    "@semantic-release/npm": "^10.0.5",
+    "@semantic-release/release-notes-generator": "^11.0.4",
     "@slidev/cli": "^0.42.9",
-    "@slidev/theme-default": "latest"
+    "@slidev/theme-default": "latest",
+    "semantic-release": "^21.1.1"
   },
   "devDependencies": {
     "commitizen": "^4.3.0",

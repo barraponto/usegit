@@ -1,0 +1,40 @@
+branches:
+  - release
+
+repositoryUrl: https://github.com/barraponto/usegit.git
+
+plugins:
+  - - "@semantic-release/commit-analyzer"
+    - releaseRules:
+        - type: fix
+          release: patch
+        - type: patch
+          release: patch
+        - type: feat
+          release: minor
+        - type: refactor
+          release: patch
+      preset: angular
+      parserOpts:
+        noteKeywords:
+          - BREAKING_CHANGE
+          - BREAKING_CHANGES
+          - BREAKING
+  - - "@semantic-release/release-notes-generator"
+    - preset: angular
+      parserOpts:
+        noteKeywords:
+          - BREAKING_CHANGE
+          - BREAKING_CHANGES
+          - BREAKING
+      writerOpts:
+        commitsSort:
+          - subject
+          - scope
+  - - "@semantic-release/changelog"
+    - changelogFile: docs/CHANGELOG.md
+  - "@semantic-release/npm"
+  - - "@semantic-release/git"
+    - assets:
+        - package.json
+        - docs/CHANGELOG.md
